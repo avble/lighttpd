@@ -1,0 +1,785 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/workaround/!svn/ver/41/trunk/lighttpd-1.4.32_1/src/.deps
+END
+configfile.Po
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/workaround/!svn/ver/43/trunk/lighttpd-1.4.32_1/src/.deps/configfile.Po
+END
+joblist.Po
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/workaround/!svn/ver/43/trunk/lighttpd-1.4.32_1/src/.deps/joblist.Po
+END
+http_chunk.Po
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/workaround/!svn/ver/43/trunk/lighttpd-1.4.32_1/src/.deps/http_chunk.Po
+END
+mod_flv_streaming.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/workaround/!svn/ver/43/trunk/lighttpd-1.4.32_1/src/.deps/mod_flv_streaming.Plo
+END
+mod_evasive.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/workaround/!svn/ver/43/trunk/lighttpd-1.4.32_1/src/.deps/mod_evasive.Plo
+END
+mod_usertrack.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/workaround/!svn/ver/43/trunk/lighttpd-1.4.32_1/src/.deps/mod_usertrack.Plo
+END
+array.Po
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/workaround/!svn/ver/43/trunk/lighttpd-1.4.32_1/src/.deps/array.Po
+END
+liblightcomp_la-log.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/src/.deps/liblightcomp_la-log.Plo
+END
+liblightcomp_la-status_counter.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/src/.deps/liblightcomp_la-status_counter.Plo
+END
+keyvalue.Po
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/workaround/!svn/ver/43/trunk/lighttpd-1.4.32_1/src/.deps/keyvalue.Po
+END
+data_integer.Po
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/workaround/!svn/ver/43/trunk/lighttpd-1.4.32_1/src/.deps/data_integer.Po
+END
+mod_secure_download.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/workaround/!svn/ver/43/trunk/lighttpd-1.4.32_1/src/.deps/mod_secure_download.Plo
+END
+mod_rewrite.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/workaround/!svn/ver/43/trunk/lighttpd-1.4.32_1/src/.deps/mod_rewrite.Plo
+END
+liblightcomp_la-stream.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/src/.deps/liblightcomp_la-stream.Plo
+END
+liblightcomp_la-fdevent.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/src/.deps/liblightcomp_la-fdevent.Plo
+END
+mod_status.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/workaround/!svn/ver/43/trunk/lighttpd-1.4.32_1/src/.deps/mod_status.Plo
+END
+configfile-glue.Po
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/workaround/!svn/ver/43/trunk/lighttpd-1.4.32_1/src/.deps/configfile-glue.Po
+END
+liblightcomp_la-configfile-glue.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/src/.deps/liblightcomp_la-configfile-glue.Plo
+END
+mod_alias.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/workaround/!svn/ver/43/trunk/lighttpd-1.4.32_1/src/.deps/mod_alias.Plo
+END
+mod_compress.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/workaround/!svn/ver/43/trunk/lighttpd-1.4.32_1/src/.deps/mod_compress.Plo
+END
+mod_ssi_expr.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/workaround/!svn/ver/43/trunk/lighttpd-1.4.32_1/src/.deps/mod_ssi_expr.Plo
+END
+data_fastcgi.Po
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/workaround/!svn/ver/43/trunk/lighttpd-1.4.32_1/src/.deps/data_fastcgi.Po
+END
+liblightcomp_la-data_array.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/src/.deps/liblightcomp_la-data_array.Plo
+END
+liblightcomp_la-buffer.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/src/.deps/liblightcomp_la-buffer.Plo
+END
+liblightcomp_la-crc32.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/src/.deps/liblightcomp_la-crc32.Plo
+END
+liblightcomp_la-fdevent_libev.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/src/.deps/liblightcomp_la-fdevent_libev.Plo
+END
+fdevent_poll.Po
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/workaround/!svn/ver/43/trunk/lighttpd-1.4.32_1/src/.deps/fdevent_poll.Po
+END
+liblightcomp_la-array.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/src/.deps/liblightcomp_la-array.Plo
+END
+liblightcomp_la-inet_ntop_cache.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/src/.deps/liblightcomp_la-inet_ntop_cache.Plo
+END
+mod_simple_vhost.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/workaround/!svn/ver/43/trunk/lighttpd-1.4.32_1/src/.deps/mod_simple_vhost.Plo
+END
+proc_open-buffer.Po
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/workaround/!svn/ver/43/trunk/lighttpd-1.4.32_1/src/.deps/proc_open-buffer.Po
+END
+network_openssl.Po
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/workaround/!svn/ver/43/trunk/lighttpd-1.4.32_1/src/.deps/network_openssl.Po
+END
+network_freebsd_sendfile.Po
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/workaround/!svn/ver/43/trunk/lighttpd-1.4.32_1/src/.deps/network_freebsd_sendfile.Po
+END
+liblightcomp_la-network_writev.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/src/.deps/liblightcomp_la-network_writev.Plo
+END
+liblightcomp_la-bitset.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/src/.deps/liblightcomp_la-bitset.Plo
+END
+liblightcomp_la-fdevent_solaris_port.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/src/.deps/liblightcomp_la-fdevent_solaris_port.Plo
+END
+mod_scgi.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/workaround/!svn/ver/43/trunk/lighttpd-1.4.32_1/src/.deps/mod_scgi.Plo
+END
+mod_expire.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/workaround/!svn/ver/43/trunk/lighttpd-1.4.32_1/src/.deps/mod_expire.Plo
+END
+liblightcomp_la-splaytree.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/src/.deps/liblightcomp_la-splaytree.Plo
+END
+fdevent_libev.Po
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/workaround/!svn/ver/43/trunk/lighttpd-1.4.32_1/src/.deps/fdevent_libev.Po
+END
+crc32.Po
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/workaround/!svn/ver/43/trunk/lighttpd-1.4.32_1/src/.deps/crc32.Po
+END
+mod_cgi.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/workaround/!svn/ver/43/trunk/lighttpd-1.4.32_1/src/.deps/mod_cgi.Plo
+END
+liblightcomp_la-connections-glue.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/src/.deps/liblightcomp_la-connections-glue.Plo
+END
+network_linux_sendfile.Po
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/workaround/!svn/ver/43/trunk/lighttpd-1.4.32_1/src/.deps/network_linux_sendfile.Po
+END
+log.Po
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/workaround/!svn/ver/43/trunk/lighttpd-1.4.32_1/src/.deps/log.Po
+END
+mod_indexfile.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/workaround/!svn/ver/43/trunk/lighttpd-1.4.32_1/src/.deps/mod_indexfile.Plo
+END
+liblightcomp_la-data_integer.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/src/.deps/liblightcomp_la-data_integer.Plo
+END
+fdevent_select.Po
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/workaround/!svn/ver/43/trunk/lighttpd-1.4.32_1/src/.deps/fdevent_select.Po
+END
+fdevent_solaris_port.Po
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/workaround/!svn/ver/43/trunk/lighttpd-1.4.32_1/src/.deps/fdevent_solaris_port.Po
+END
+stat_cache.Po
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/workaround/!svn/ver/43/trunk/lighttpd-1.4.32_1/src/.deps/stat_cache.Po
+END
+response.Po
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/workaround/!svn/ver/43/trunk/lighttpd-1.4.32_1/src/.deps/response.Po
+END
+plugin.Po
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/workaround/!svn/ver/43/trunk/lighttpd-1.4.32_1/src/.deps/plugin.Po
+END
+mod_rrdtool.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/workaround/!svn/ver/43/trunk/lighttpd-1.4.32_1/src/.deps/mod_rrdtool.Plo
+END
+liblightcomp_la-plugin.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/src/.deps/liblightcomp_la-plugin.Plo
+END
+liblightcomp_la-data_config.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/src/.deps/liblightcomp_la-data_config.Plo
+END
+liblightcomp_la-data_string.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/src/.deps/liblightcomp_la-data_string.Plo
+END
+mod_webdav_la-mod_webdav.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/workaround/!svn/ver/43/trunk/lighttpd-1.4.32_1/src/.deps/mod_webdav_la-mod_webdav.Plo
+END
+mod_mysql_vhost_la-mod_mysql_vhost.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/workaround/!svn/ver/43/trunk/lighttpd-1.4.32_1/src/.deps/mod_mysql_vhost_la-mod_mysql_vhost.Plo
+END
+liblightcomp_la-network_write.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/src/.deps/liblightcomp_la-network_write.Plo
+END
+liblightcomp_la-fdevent_linux_sysepoll.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/src/.deps/liblightcomp_la-fdevent_linux_sysepoll.Plo
+END
+splaytree.Po
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/workaround/!svn/ver/43/trunk/lighttpd-1.4.32_1/src/.deps/splaytree.Po
+END
+chunk.Po
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/workaround/!svn/ver/43/trunk/lighttpd-1.4.32_1/src/.deps/chunk.Po
+END
+mod_accesslog.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/workaround/!svn/ver/43/trunk/lighttpd-1.4.32_1/src/.deps/mod_accesslog.Plo
+END
+etag.Po
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/workaround/!svn/ver/43/trunk/lighttpd-1.4.32_1/src/.deps/etag.Po
+END
+liblightcomp_la-data_count.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/src/.deps/liblightcomp_la-data_count.Plo
+END
+md5.Po
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/workaround/!svn/ver/43/trunk/lighttpd-1.4.32_1/src/.deps/md5.Po
+END
+request.Po
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/workaround/!svn/ver/43/trunk/lighttpd-1.4.32_1/src/.deps/request.Po
+END
+mod_userdir.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/workaround/!svn/ver/43/trunk/lighttpd-1.4.32_1/src/.deps/mod_userdir.Plo
+END
+network.Po
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/workaround/!svn/ver/43/trunk/lighttpd-1.4.32_1/src/.deps/network.Po
+END
+stream.Po
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/workaround/!svn/ver/43/trunk/lighttpd-1.4.32_1/src/.deps/stream.Po
+END
+mod_proxy.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/workaround/!svn/ver/43/trunk/lighttpd-1.4.32_1/src/.deps/mod_proxy.Plo
+END
+mod_extforward.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/workaround/!svn/ver/43/trunk/lighttpd-1.4.32_1/src/.deps/mod_extforward.Plo
+END
+data_array.Po
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/workaround/!svn/ver/43/trunk/lighttpd-1.4.32_1/src/.deps/data_array.Po
+END
+mod_cml_la-mod_cml_funcs.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/workaround/!svn/ver/43/trunk/lighttpd-1.4.32_1/src/.deps/mod_cml_la-mod_cml_funcs.Plo
+END
+mod_cml_la-mod_cml_lua.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/workaround/!svn/ver/43/trunk/lighttpd-1.4.32_1/src/.deps/mod_cml_la-mod_cml_lua.Plo
+END
+mod_redirect.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/workaround/!svn/ver/43/trunk/lighttpd-1.4.32_1/src/.deps/mod_redirect.Plo
+END
+http_auth.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/workaround/!svn/ver/43/trunk/lighttpd-1.4.32_1/src/.deps/http_auth.Plo
+END
+mod_setenv.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/workaround/!svn/ver/43/trunk/lighttpd-1.4.32_1/src/.deps/mod_setenv.Plo
+END
+liblightcomp_la-fdevent_solaris_devpoll.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/src/.deps/liblightcomp_la-fdevent_solaris_devpoll.Plo
+END
+data_count.Po
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/workaround/!svn/ver/43/trunk/lighttpd-1.4.32_1/src/.deps/data_count.Po
+END
+connections.Po
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/workaround/!svn/ver/43/trunk/lighttpd-1.4.32_1/src/.deps/connections.Po
+END
+status_counter.Po
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/workaround/!svn/ver/43/trunk/lighttpd-1.4.32_1/src/.deps/status_counter.Po
+END
+network_solaris_sendfilev.Po
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/workaround/!svn/ver/43/trunk/lighttpd-1.4.32_1/src/.deps/network_solaris_sendfilev.Po
+END
+mod_fastcgi.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/workaround/!svn/ver/43/trunk/lighttpd-1.4.32_1/src/.deps/mod_fastcgi.Plo
+END
+fdevent.Po
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/workaround/!svn/ver/43/trunk/lighttpd-1.4.32_1/src/.deps/fdevent.Po
+END
+mod_staticfile.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/workaround/!svn/ver/45/trunk/lighttpd-1.4.32_1/src/.deps/mod_staticfile.Plo
+END
+network_write.Po
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/workaround/!svn/ver/43/trunk/lighttpd-1.4.32_1/src/.deps/network_write.Po
+END
+fdevent_linux_sysepoll.Po
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/workaround/!svn/ver/43/trunk/lighttpd-1.4.32_1/src/.deps/fdevent_linux_sysepoll.Po
+END
+liblightcomp_la-fdevent_freebsd_kqueue.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/src/.deps/liblightcomp_la-fdevent_freebsd_kqueue.Plo
+END
+mod_cml_la-mod_cml.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/workaround/!svn/ver/43/trunk/lighttpd-1.4.32_1/src/.deps/mod_cml_la-mod_cml.Plo
+END
+lemon.Po
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/workaround/!svn/ver/43/trunk/lighttpd-1.4.32_1/src/.deps/lemon.Po
+END
+liblightcomp_la-http_chunk.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/src/.deps/liblightcomp_la-http_chunk.Plo
+END
+mod_auth.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/workaround/!svn/ver/43/trunk/lighttpd-1.4.32_1/src/.deps/mod_auth.Plo
+END
+mod_trigger_b4_dl.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/workaround/!svn/ver/43/trunk/lighttpd-1.4.32_1/src/.deps/mod_trigger_b4_dl.Plo
+END
+mod_dirlisting.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/workaround/!svn/ver/43/trunk/lighttpd-1.4.32_1/src/.deps/mod_dirlisting.Plo
+END
+proc_open.Po
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/workaround/!svn/ver/43/trunk/lighttpd-1.4.32_1/src/.deps/proc_open.Po
+END
+liblightcomp_la-network_linux_sendfile.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/src/.deps/liblightcomp_la-network_linux_sendfile.Plo
+END
+liblightcomp_la-keyvalue.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/src/.deps/liblightcomp_la-keyvalue.Plo
+END
+liblightcomp_la-md5.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/src/.deps/liblightcomp_la-md5.Plo
+END
+bitset.Po
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/workaround/!svn/ver/43/trunk/lighttpd-1.4.32_1/src/.deps/bitset.Po
+END
+liblightcomp_la-network_freebsd_sendfile.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/src/.deps/liblightcomp_la-network_freebsd_sendfile.Plo
+END
+liblightcomp_la-http-header-glue.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/src/.deps/liblightcomp_la-http-header-glue.Plo
+END
+buffer.Po
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/workaround/!svn/ver/43/trunk/lighttpd-1.4.32_1/src/.deps/buffer.Po
+END
+liblightcomp_la-chunk.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/src/.deps/liblightcomp_la-chunk.Plo
+END
+connections-glue.Po
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/workaround/!svn/ver/43/trunk/lighttpd-1.4.32_1/src/.deps/connections-glue.Po
+END
+liblightcomp_la-data_fastcgi.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/src/.deps/liblightcomp_la-data_fastcgi.Plo
+END
+inet_ntop_cache.Po
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/workaround/!svn/ver/43/trunk/lighttpd-1.4.32_1/src/.deps/inet_ntop_cache.Po
+END
+mod_ssi_exprparser.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/workaround/!svn/ver/43/trunk/lighttpd-1.4.32_1/src/.deps/mod_ssi_exprparser.Plo
+END
+liblightcomp_la-fdevent_poll.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/src/.deps/liblightcomp_la-fdevent_poll.Plo
+END
+network_writev.Po
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/workaround/!svn/ver/43/trunk/lighttpd-1.4.32_1/src/.deps/network_writev.Po
+END
+liblightcomp_la-fdevent_select.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/src/.deps/liblightcomp_la-fdevent_select.Plo
+END
+http-header-glue.Po
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/workaround/!svn/ver/43/trunk/lighttpd-1.4.32_1/src/.deps/http-header-glue.Po
+END
+data_string.Po
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/workaround/!svn/ver/43/trunk/lighttpd-1.4.32_1/src/.deps/data_string.Po
+END
+liblightcomp_la-network_openssl.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/src/.deps/liblightcomp_la-network_openssl.Plo
+END
+liblightcomp_la-stat_cache.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/src/.deps/liblightcomp_la-stat_cache.Plo
+END
+lighttpd-angel.Po
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/workaround/!svn/ver/43/trunk/lighttpd-1.4.32_1/src/.deps/lighttpd-angel.Po
+END
+fdevent_freebsd_kqueue.Po
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/workaround/!svn/ver/43/trunk/lighttpd-1.4.32_1/src/.deps/fdevent_freebsd_kqueue.Po
+END
+server.Po
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/workaround/!svn/ver/43/trunk/lighttpd-1.4.32_1/src/.deps/server.Po
+END
+proc_open-proc_open.Po
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/workaround/!svn/ver/43/trunk/lighttpd-1.4.32_1/src/.deps/proc_open-proc_open.Po
+END
+mod_ssi.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/workaround/!svn/ver/43/trunk/lighttpd-1.4.32_1/src/.deps/mod_ssi.Plo
+END
+liblightcomp_la-joblist.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/src/.deps/liblightcomp_la-joblist.Plo
+END
+mod_magnet_la-mod_magnet.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/workaround/!svn/ver/43/trunk/lighttpd-1.4.32_1/src/.deps/mod_magnet_la-mod_magnet.Plo
+END
+mod_access.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/workaround/!svn/ver/43/trunk/lighttpd-1.4.32_1/src/.deps/mod_access.Plo
+END
+fdevent_solaris_devpoll.Po
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/workaround/!svn/ver/43/trunk/lighttpd-1.4.32_1/src/.deps/fdevent_solaris_devpoll.Po
+END
+configparser.Po
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/workaround/!svn/ver/43/trunk/lighttpd-1.4.32_1/src/.deps/configparser.Po
+END
+mod_evhost.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/workaround/!svn/ver/43/trunk/lighttpd-1.4.32_1/src/.deps/mod_evhost.Plo
+END
+liblightcomp_la-etag.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/src/.deps/liblightcomp_la-etag.Plo
+END
+liblightcomp_la-network_solaris_sendfilev.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/src/.deps/liblightcomp_la-network_solaris_sendfilev.Plo
+END
+mod_magnet_la-mod_magnet_cache.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/workaround/!svn/ver/43/trunk/lighttpd-1.4.32_1/src/.deps/mod_magnet_la-mod_magnet_cache.Plo
+END
+data_config.Po
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/workaround/!svn/ver/43/trunk/lighttpd-1.4.32_1/src/.deps/data_config.Po
+END

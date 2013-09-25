@@ -1,0 +1,257 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/workaround/!svn/ver/18/trunk/lighttpd-1.4.32_1/doc/outdated
+END
+redirect.txt
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/doc/outdated/redirect.txt
+END
+performance.txt
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/doc/outdated/performance.txt
+END
+ssl.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/doc/outdated/ssl.txt
+END
+secdownload.txt
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/doc/outdated/secdownload.txt
+END
+accesslog.txt
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/doc/outdated/accesslog.txt
+END
+setenv.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/doc/outdated/setenv.txt
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/doc/outdated/Makefile.in
+END
+traffic-shaping.txt
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/doc/outdated/traffic-shaping.txt
+END
+security.txt
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/doc/outdated/security.txt
+END
+trigger_b4_dl.txt
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/doc/outdated/trigger_b4_dl.txt
+END
+webdav.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/doc/outdated/webdav.txt
+END
+userdir.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/doc/outdated/userdir.txt
+END
+features.txt
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/doc/outdated/features.txt
+END
+proxy.txt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/doc/outdated/proxy.txt
+END
+status.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/doc/outdated/status.txt
+END
+mysqlvhost.txt
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/doc/outdated/mysqlvhost.txt
+END
+compress.txt
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/doc/outdated/compress.txt
+END
+fastcgi-state.txt
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/doc/outdated/fastcgi-state.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/workaround/!svn/ver/43/trunk/lighttpd-1.4.32_1/doc/outdated/Makefile
+END
+access.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/doc/outdated/access.txt
+END
+cgi.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/doc/outdated/cgi.txt
+END
+fastcgi-state.dot
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/doc/outdated/fastcgi-state.dot
+END
+configuration.txt
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/doc/outdated/configuration.txt
+END
+evhost.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/doc/outdated/evhost.txt
+END
+dirlisting.txt
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/doc/outdated/dirlisting.txt
+END
+cml.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/doc/outdated/cml.txt
+END
+magnet.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/doc/outdated/magnet.txt
+END
+authentication.txt
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/doc/outdated/authentication.txt
+END
+state.txt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/doc/outdated/state.txt
+END
+fastcgi.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/doc/outdated/fastcgi.txt
+END
+rewrite.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/doc/outdated/rewrite.txt
+END
+plugins.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/doc/outdated/plugins.txt
+END
+skeleton.txt
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/doc/outdated/skeleton.txt
+END
+scgi.txt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/doc/outdated/scgi.txt
+END
+rrdtool.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/doc/outdated/rrdtool.txt
+END
+extforward.txt
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/doc/outdated/extforward.txt
+END
+state.dot
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/doc/outdated/state.dot
+END
+alias.txt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/doc/outdated/alias.txt
+END
+simple-vhost.txt
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/doc/outdated/simple-vhost.txt
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/doc/outdated/Makefile.am
+END
+expire.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/doc/outdated/expire.txt
+END
+ssi.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/doc/outdated/ssi.txt
+END

@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/workaround/!svn/ver/18/trunk/lighttpd-1.4.32_1/doc/config/conf.d
+END
+compress.conf
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/doc/config/conf.d/compress.conf
+END
+expire.conf
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/doc/config/conf.d/expire.conf
+END
+ssi.conf
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/doc/config/conf.d/ssi.conf
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/doc/config/conf.d/Makefile.in
+END
+auth.conf
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/doc/config/conf.d/auth.conf
+END
+secdownload.conf
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/doc/config/conf.d/secdownload.conf
+END
+access_log.conf
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/doc/config/conf.d/access_log.conf
+END
+cgi.conf
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/doc/config/conf.d/cgi.conf
+END
+geoip.conf
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/doc/config/conf.d/geoip.conf
+END
+mod.template
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/doc/config/conf.d/mod.template
+END
+trigger_b4_dl.conf
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/doc/config/conf.d/trigger_b4_dl.conf
+END
+webdav.conf
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/doc/config/conf.d/webdav.conf
+END
+dirlisting.conf
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/doc/config/conf.d/dirlisting.conf
+END
+evhost.conf
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/doc/config/conf.d/evhost.conf
+END
+magnet.conf
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/doc/config/conf.d/magnet.conf
+END
+cml.conf
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/doc/config/conf.d/cml.conf
+END
+simple_vhost.conf
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/doc/config/conf.d/simple_vhost.conf
+END
+userdir.conf
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/doc/config/conf.d/userdir.conf
+END
+fastcgi.conf
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/doc/config/conf.d/fastcgi.conf
+END
+proxy.conf
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/doc/config/conf.d/proxy.conf
+END
+status.conf
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/doc/config/conf.d/status.conf
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/doc/config/conf.d/Makefile.am
+END
+rrdtool.conf
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/doc/config/conf.d/rrdtool.conf
+END
+scgi.conf
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/doc/config/conf.d/scgi.conf
+END
+debug.conf
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/doc/config/conf.d/debug.conf
+END
+mime.conf
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/doc/config/conf.d/mime.conf
+END
+mysql_vhost.conf
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/doc/config/conf.d/mysql_vhost.conf
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/workaround/!svn/ver/43/trunk/lighttpd-1.4.32_1/doc/config/conf.d/Makefile
+END

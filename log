@@ -1,0 +1,1614 @@
+[Debug] connections.c, 1392  number of connection: 0 
+[Debug] connections.c, 337  
+[Debug] connections.c, 371  
+[Debug] connections.c, 378  
+[Debug] connections.c, 337  
+[Debug] connections.c, 371  
+[Debug] connections.c, 408  
+[Debug] connections.c, 415, header request: 
+ GET /masterhd.m3u8 HTTP/1.1
+Host: 192.168.0.67:8085
+User-Agent: VLC/2.0.8 LibVLC/2.0.8
+Range: bytes=0-
+  
+[Debug] connections.c, 337  
+[Debug] connections.c, 371  
+[Debug] connections.c, 408  
+[Debug] connections.c, 415, header request: 
+ Connection: close
+Icy-MetaData: 1
+
+  
+[Debug] request.c, 555, URI: /masterhd.m3u8 
+[Debug] request.c, 25: server: C2E010, connection: C4AAD0 
+[Debug] mod_staticfile.c, 159, 
+[Debug]: chunk.c, 166 offset: 0, len: 107 
+[Debug] mod_staticfile.c, 355, start: 0, len: 107 
+[Debug] mod_staticfile.c, 364 
+[Debug] mod_staticfile.c, 394 
+[Debug] connections.c, 459 Path: /var/www/html/masterhd.m3u8 
+[Debug] connections.c, 465 Path: /var/www/html/masterhd.m3u8 
+[Debug] connections.c, 534  http status: 206 
+[Debug] connections.c, 599 
+[Debug] connections.c, 602 
+[Debug] connections.c, 628, Len: 107 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 2 
+[Debug] network_linux_sendfile.c, 290 
+[Debug] network_linux_sendfile.c, 337 , num chunk: 1 
+[Debug] network_linux_sendfile.c, 340 , iov len: 221 
+[Debug] network_linux_sendfile.c, 344 , 
+ response header: HTTP/1.1 206 Partial Content
+Content-Type: application/octet-stream
+Accept-Ranges: bytes
+Content-Range: bytes 0-106/107
+Content-Length: 107
+Connection: close
+Date: Sun, 22 Sep 2013 08:45:44 GMT
+Server: lighttpd
+
+ 
+[Debug] open file network_linux_sendfile.c, 416 file name: /var/www/html/masterhd.m3u8, fid: 8 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 0 , F id: 8 len: 107 
+[Debug] network_linux_sendfile.c, 637 
+[Debug] network_linux_sendfile.c, 642 Close file: /var/www/html/masterhd.m3u8, file id: 8 
+[Debug] network.c, 977 
+[Debug] connections.c, 1392  number of connection: 1 
+[Debug] connections.c, 337  
+[Debug] connections.c, 371  
+[Debug] connections.c, 378  
+[Debug] connections.c, 337  
+[Debug] connections.c, 371  
+[Debug] connections.c, 408  
+[Debug] connections.c, 415, header request: 
+ GET /output.m3u8 HTTP/1.1
+  
+[Debug] connections.c, 337  
+[Debug] connections.c, 371  
+[Debug] connections.c, 408  
+[Debug] connections.c, 415, header request: 
+ Host: 192.168.0.67:8085
+User-Agent: VLC/2.0.8 LibVLC/2.0.8
+Range: bytes=0-
+Connection: close
+Icy-MetaData: 1
+
+  
+[Debug] request.c, 555, URI: /output.m3u8 
+[Debug] request.c, 25: server: C2E010, connection: C4B350 
+[Debug] mod_staticfile.c, 159, 
+[Debug]: chunk.c, 166 offset: 0, len: 3985 
+[Debug] mod_staticfile.c, 355, start: 0, len: 3985 
+[Debug] mod_staticfile.c, 364 
+[Debug] mod_staticfile.c, 394 
+[Debug] connections.c, 459 Path: /var/www/html/output.m3u8 
+[Debug] connections.c, 465 Path: /var/www/html/output.m3u8 
+[Debug] connections.c, 534  http status: 206 
+[Debug] connections.c, 599 
+[Debug] connections.c, 602 
+[Debug] connections.c, 628, Len: 3985 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 2 
+[Debug] network_linux_sendfile.c, 290 
+[Debug] network_linux_sendfile.c, 337 , num chunk: 1 
+[Debug] network_linux_sendfile.c, 340 , iov len: 224 
+[Debug] network_linux_sendfile.c, 344 , 
+ response header: HTTP/1.1 206 Partial Content
+Content-Type: application/octet-stream
+Accept-Ranges: bytes
+Content-Range: bytes 0-3984/3985
+Content-Length: 3985
+Connection: close
+Date: Sun, 22 Sep 2013 08:45:44 GMT
+Server: lighttpd
+
+ 
+[Debug] open file network_linux_sendfile.c, 416 file name: /var/www/html/output.m3u8, fid: 9 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 0 , F id: 9 len: 3985 
+[Debug] network_linux_sendfile.c, 637 
+[Debug] network_linux_sendfile.c, 642 Close file: /var/www/html/output.m3u8, file id: 9 
+[Debug] network.c, 977 
+[Debug] connections.c, 1392  number of connection: 2 
+[Debug] connections.c, 337  
+[Debug] connections.c, 371  
+[Debug] connections.c, 378  
+[Debug] connections.c, 337  
+[Debug] connections.c, 371  
+[Debug] connections.c, 408  
+[Debug] connections.c, 415, header request: 
+ GET /./output/stream-1.ts HTTP/1.1
+Host: 192.168.0.67:8085
+User-Agent: VLC/2.0.8 LibVLC/2.0.8
+Range: bytes=0-
+Connection: close
+Icy-MetaData: 1
+
+  
+[Debug] request.c, 555, URI: /./output/stream-1.ts 
+[Debug] p1: -1.ts, p2: .ts 
+number at index: 31 is :712cd481 
+[Debug] request.c, 592, Waiting for URI: /var/www/html/./output/stream-2.ts, new uri: /./output/stream-2.ts  number: 1
+[Debug] request.c, 25: server: C2E010, connection: C4B350 
+[Debug] mod_staticfile.c, 159, 
+[Debug]: chunk.c, 166 offset: 0, len: 29328 
+[Debug] mod_staticfile.c, 355, start: 0, len: 29328 
+[Debug] mod_staticfile.c, 364 
+[Debug] mod_staticfile.c, 394 
+[Debug] connections.c, 459 Path: /var/www/html/output/stream-1.ts 
+[Debug] connections.c, 465 Path: /var/www/html/output/stream-1.ts 
+[Debug] connections.c, 534  http status: 206 
+[Debug] connections.c, 599 
+[Debug] connections.c, 602 
+[Debug] connections.c, 628, Len: 29328 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 2 
+[Debug] network_linux_sendfile.c, 290 
+[Debug] network_linux_sendfile.c, 337 , num chunk: 1 
+[Debug] network_linux_sendfile.c, 340 , iov len: 279 
+[Debug] network_linux_sendfile.c, 344 , 
+ response header: HTTP/1.1 206 Partial Content
+Content-Type: video/mpts
+Accept-Ranges: bytes
+ETag: "3433003884"
+Last-Modified: Sun, 22 Sep 2013 08:29:24 GMT
+Content-Range: bytes 0-29327/29328
+Content-Length: 29328
+Connection: close
+Date: Sun, 22 Sep 2013 08:45:44 GMT
+Server: lighttpd
+
+ 
+[Debug] open file network_linux_sendfile.c, 416 file name: /var/www/html/output/stream-1.ts, fid: 9 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 0 , F id: 9 len: 29328 
+[Debug] network_linux_sendfile.c, 637 
+[Debug] network_linux_sendfile.c, 642 Close file: /var/www/html/output/stream-1.ts, file id: 9 
+[Debug] network.c, 977 
+[Debug] connections.c, 1392  number of connection: 3 
+[Debug] connections.c, 337  
+[Debug] connections.c, 371  
+[Debug] connections.c, 378  
+[Debug] connections.c, 337  
+[Debug] connections.c, 371  
+[Debug] connections.c, 408  
+[Debug] connections.c, 415, header request: 
+ GET /./output/stream-2.ts HTTP/1.1
+  
+[Debug] connections.c, 337  
+[Debug] connections.c, 371  
+[Debug] connections.c, 408  
+[Debug] connections.c, 415, header request: 
+ Host: 192.168.0.67:8085
+User-Agent: VLC/2.0.8 LibVLC/2.0.8
+Range: bytes=0-
+Connection: close
+Icy-MetaData: 1
+
+  
+[Debug] request.c, 555, URI: /./output/stream-2.ts 
+[Debug] p1: -2.ts, p2: .ts 
+number at index: 32 is :712cd481 
+[Debug] request.c, 592, Waiting for URI: /var/www/html/./output/stream-3.ts, new uri: /./output/stream-3.ts  number: 2
+[Debug] request.c, 25: server: C2E010, connection: C4B350 
+[Debug] mod_staticfile.c, 159, 
+[Debug]: chunk.c, 166 offset: 0, len: 1294568 
+[Debug] mod_staticfile.c, 355, start: 0, len: 1294568 
+[Debug] mod_staticfile.c, 364 
+[Debug] mod_staticfile.c, 394 
+[Debug] connections.c, 459 Path: /var/www/html/output/stream-2.ts 
+[Debug] connections.c, 465 Path: /var/www/html/output/stream-2.ts 
+[Debug] connections.c, 534  http status: 206 
+[Debug] connections.c, 599 
+[Debug] connections.c, 602 
+[Debug] connections.c, 628, Len: 1294568 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 2 
+[Debug] network_linux_sendfile.c, 290 
+[Debug] network_linux_sendfile.c, 337 , num chunk: 1 
+[Debug] network_linux_sendfile.c, 340 , iov len: 285 
+[Debug] network_linux_sendfile.c, 344 , 
+ response header: HTTP/1.1 206 Partial Content
+Content-Type: video/mpts
+Accept-Ranges: bytes
+ETag: "1226433712"
+Last-Modified: Sun, 22 Sep 2013 08:29:24 GMT
+Content-Range: bytes 0-1294567/1294568
+Content-Length: 1294568
+Connection: close
+Date: Sun, 22 Sep 2013 08:45:44 GMT
+Server: lighttpd
+
+ 
+[Debug] open file network_linux_sendfile.c, 416 file name: /var/www/html/output/stream-2.ts, fid: 9 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 0 , F id: 9 len: 1294568 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 71255 , F id: 9 len: 1294568 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 145024 , F id: 9 len: 1294568 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 252656 , F id: 9 len: 1294568 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 278936 , F id: 9 len: 1294568 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 305216 , F id: 9 len: 1294568 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 340256 , F id: 9 len: 1294568 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 602400 , F id: 9 len: 1294568 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 864544 , F id: 9 len: 1294568 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 1126688 , F id: 9 len: 1294568 
+[Debug] network_linux_sendfile.c, 637 
+[Debug] network_linux_sendfile.c, 642 Close file: /var/www/html/output/stream-2.ts, file id: 9 
+[Debug] network.c, 977 
+[Debug] connections.c, 1392  number of connection: 4 
+[Debug] connections.c, 337  
+[Debug] connections.c, 371  
+[Debug] connections.c, 378  
+[Debug] connections.c, 337  
+[Debug] connections.c, 371  
+[Debug] connections.c, 408  
+[Debug] connections.c, 415, header request: 
+ GET /./output/stream-3.ts HTTP/1.1
+  
+[Debug] connections.c, 337  
+[Debug] connections.c, 371  
+[Debug] connections.c, 408  
+[Debug] connections.c, 415, header request: 
+ Host: 192.168.0.67:8085
+User-Agent: VLC/2.0.8 LibVLC/2.0.8
+Range: bytes=0-
+Connection: close
+Icy-MetaData: 1
+
+  
+[Debug] request.c, 555, URI: /./output/stream-3.ts 
+[Debug] p1: -3.ts, p2: .ts 
+number at index: 33 is :712cd481 
+[Debug] request.c, 592, Waiting for URI: /var/www/html/./output/stream-4.ts, new uri: /./output/stream-4.ts  number: 3
+[Debug] request.c, 25: server: C2E010, connection: C4B350 
+[Debug] mod_staticfile.c, 159, 
+[Debug]: chunk.c, 166 offset: 0, len: 2114436 
+[Debug] mod_staticfile.c, 355, start: 0, len: 2114436 
+[Debug] mod_staticfile.c, 364 
+[Debug] mod_staticfile.c, 394 
+[Debug] connections.c, 459 Path: /var/www/html/output/stream-3.ts 
+[Debug] connections.c, 465 Path: /var/www/html/output/stream-3.ts 
+[Debug] connections.c, 534  http status: 206 
+[Debug] connections.c, 599 
+[Debug] connections.c, 602 
+[Debug] connections.c, 628, Len: 2114436 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 2 
+[Debug] network_linux_sendfile.c, 290 
+[Debug] network_linux_sendfile.c, 337 , num chunk: 1 
+[Debug] network_linux_sendfile.c, 340 , iov len: 285 
+[Debug] network_linux_sendfile.c, 344 , 
+ response header: HTTP/1.1 206 Partial Content
+Content-Type: video/mpts
+Accept-Ranges: bytes
+ETag: "2658837685"
+Last-Modified: Sun, 22 Sep 2013 08:29:24 GMT
+Content-Range: bytes 0-2114435/2114436
+Content-Length: 2114436
+Connection: close
+Date: Sun, 22 Sep 2013 08:45:44 GMT
+Server: lighttpd
+
+ 
+[Debug] open file network_linux_sendfile.c, 416 file name: /var/www/html/output/stream-3.ts, fid: 9 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 0 , F id: 9 len: 2114436 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 63955 , F id: 9 len: 2114436 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 110675 , F id: 9 len: 2114436 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 145715 , F id: 9 len: 2114436 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 171995 , F id: 9 len: 2114436 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 244995 , F id: 9 len: 2114436 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 288795 , F id: 9 len: 2114436 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 315075 , F id: 9 len: 2114436 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 341355 , F id: 9 len: 2114436 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 462120 , F id: 9 len: 2114436 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 533660 , F id: 9 len: 2114436 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 795804 , F id: 9 len: 2114436 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 1057948 , F id: 9 len: 2114436 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 1320092 , F id: 9 len: 2114436 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 1582236 , F id: 9 len: 2114436 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 1745344 , F id: 9 len: 2114436 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 1813964 , F id: 9 len: 2114436 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 1908008 , F id: 9 len: 2114436 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 1979548 , F id: 9 len: 2114436 
+[Debug] network_linux_sendfile.c, 637 
+[Debug] network_linux_sendfile.c, 642 Close file: /var/www/html/output/stream-3.ts, file id: 9 
+[Debug] network.c, 977 
+[Debug] connections.c, 1392  number of connection: 5 
+[Debug] connections.c, 337  
+[Debug] connections.c, 371  
+[Debug] connections.c, 378  
+[Debug] connections.c, 337  
+[Debug] connections.c, 371  
+[Debug] connections.c, 408  
+[Debug] connections.c, 415, header request: 
+ GET /./output/stream-4.ts HTTP/1.1
+  
+[Debug] connections.c, 337  
+[Debug] connections.c, 371  
+[Debug] connections.c, 408  
+[Debug] connections.c, 415, header request: 
+ Host: 192.168.0.67:8085
+User-Agent: VLC/2.0.8 LibVLC/2.0.8
+Range: bytes=0-
+Connection: close
+Icy-MetaData: 1
+
+  
+[Debug] request.c, 555, URI: /./output/stream-4.ts 
+[Debug] p1: -4.ts, p2: .ts 
+number at index: 34 is :712cd481 
+[Debug] request.c, 592, Waiting for URI: /var/www/html/./output/stream-5.ts, new uri: /./output/stream-5.ts  number: 4
+[Debug] request.c, 25: server: C2E010, connection: C4BBD0 
+[Debug] mod_staticfile.c, 159, 
+[Debug]: chunk.c, 166 offset: 0, len: 1926248 
+[Debug] mod_staticfile.c, 355, start: 0, len: 1926248 
+[Debug] mod_staticfile.c, 364 
+[Debug] mod_staticfile.c, 394 
+[Debug] connections.c, 459 Path: /var/www/html/output/stream-4.ts 
+[Debug] connections.c, 465 Path: /var/www/html/output/stream-4.ts 
+[Debug] connections.c, 534  http status: 206 
+[Debug] connections.c, 599 
+[Debug] connections.c, 602 
+[Debug] connections.c, 628, Len: 1926248 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 2 
+[Debug] network_linux_sendfile.c, 290 
+[Debug] network_linux_sendfile.c, 337 , num chunk: 1 
+[Debug] network_linux_sendfile.c, 340 , iov len: 285 
+[Debug] network_linux_sendfile.c, 344 , 
+ response header: HTTP/1.1 206 Partial Content
+Content-Type: video/mpts
+Accept-Ranges: bytes
+ETag: "1762835129"
+Last-Modified: Sun, 22 Sep 2013 08:29:24 GMT
+Content-Range: bytes 0-1926247/1926248
+Content-Length: 1926248
+Connection: close
+Date: Sun, 22 Sep 2013 08:45:44 GMT
+Server: lighttpd
+
+ 
+[Debug] open file network_linux_sendfile.c, 416 file name: /var/www/html/output/stream-4.ts, fid: 8 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 0 , F id: 8 len: 1926248 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 122355 , F id: 8 len: 1926248 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 192716 , F id: 8 len: 1926248 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 236516 , F id: 8 len: 1926248 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 262796 , F id: 8 len: 1926248 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 289076 , F id: 8 len: 1926248 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 315356 , F id: 8 len: 1926248 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 367916 , F id: 8 len: 1926248 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 630060 , F id: 8 len: 1926248 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 892204 , F id: 8 len: 1926248 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 1154348 , F id: 8 len: 1926248 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 1416492 , F id: 8 len: 1926248 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 1678636 , F id: 8 len: 1926248 
+[Debug] network_linux_sendfile.c, 637 
+[Debug] network_linux_sendfile.c, 642 Close file: /var/www/html/output/stream-4.ts, file id: 8 
+[Debug] network.c, 977 
+[Debug] connections.c, 1392  number of connection: 6 
+[Debug] connections.c, 337  
+[Debug] connections.c, 371  
+[Debug] connections.c, 378  
+[Debug] connections.c, 337  
+[Debug] connections.c, 371  
+[Debug] connections.c, 408  
+[Debug] connections.c, 415, header request: 
+ GET /./output/stream-5.ts HTTP/1.1
+  
+[Debug] connections.c, 337  
+[Debug] connections.c, 371  
+[Debug] connections.c, 408  
+[Debug] connections.c, 415, header request: 
+ Host: 192.168.0.67:8085
+User-Agent: VLC/2.0.8 LibVLC/2.0.8
+Range: bytes=0-
+Connection: close
+Icy-MetaData: 1
+
+  
+[Debug] request.c, 555, URI: /./output/stream-5.ts 
+[Debug] p1: -5.ts, p2: .ts 
+number at index: 35 is :712cd481 
+[Debug] request.c, 592, Waiting for URI: /var/www/html/./output/stream-6.ts, new uri: /./output/stream-6.ts  number: 5
+[Debug] request.c, 25: server: C2E010, connection: C4BBD0 
+[Debug] mod_staticfile.c, 159, 
+[Debug]: chunk.c, 166 offset: 0, len: 2007840 
+[Debug] mod_staticfile.c, 355, start: 0, len: 2007840 
+[Debug] mod_staticfile.c, 364 
+[Debug] mod_staticfile.c, 394 
+[Debug] connections.c, 459 Path: /var/www/html/output/stream-5.ts 
+[Debug] connections.c, 465 Path: /var/www/html/output/stream-5.ts 
+[Debug] connections.c, 534  http status: 206 
+[Debug] connections.c, 599 
+[Debug] connections.c, 602 
+[Debug] connections.c, 628, Len: 2007840 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 2 
+[Debug] network_linux_sendfile.c, 290 
+[Debug] network_linux_sendfile.c, 337 , num chunk: 1 
+[Debug] network_linux_sendfile.c, 340 , iov len: 285 
+[Debug] network_linux_sendfile.c, 344 , 
+ response header: HTTP/1.1 206 Partial Content
+Content-Type: video/mpts
+Accept-Ranges: bytes
+ETag: "3984304377"
+Last-Modified: Sun, 22 Sep 2013 08:29:25 GMT
+Content-Range: bytes 0-2007839/2007840
+Content-Length: 2007840
+Connection: close
+Date: Sun, 22 Sep 2013 08:45:45 GMT
+Server: lighttpd
+
+ 
+[Debug] open file network_linux_sendfile.c, 416 file name: /var/www/html/output/stream-5.ts, fid: 9 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 0 , F id: 9 len: 2007840 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 44975 , F id: 9 len: 2007840 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 71255 , F id: 9 len: 2007840 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 106295 , F id: 9 len: 2007840 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 132575 , F id: 9 len: 2007840 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 167615 , F id: 9 len: 2007840 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 193895 , F id: 9 len: 2007840 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 237695 , F id: 9 len: 2007840 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 263975 , F id: 9 len: 2007840 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 290255 , F id: 9 len: 2007840 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 342815 , F id: 9 len: 2007840 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 369095 , F id: 9 len: 2007840 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 631239 , F id: 9 len: 2007840 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 893383 , F id: 9 len: 2007840 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 1155527 , F id: 9 len: 2007840 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 1417671 , F id: 9 len: 2007840 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 1679815 , F id: 9 len: 2007840 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 1941959 , F id: 9 len: 2007840 
+[Debug] network_linux_sendfile.c, 637 
+[Debug] network_linux_sendfile.c, 642 Close file: /var/www/html/output/stream-5.ts, file id: 9 
+[Debug] network.c, 977 
+[Debug] connections.c, 1392  number of connection: 7 
+[Debug] connections.c, 337  
+[Debug] connections.c, 371  
+[Debug] connections.c, 378  
+[Debug] connections.c, 337  
+[Debug] connections.c, 371  
+[Debug] connections.c, 408  
+[Debug] connections.c, 415, header request: 
+ GET /./output/stream-6.ts HTTP/1.1
+  
+[Debug] connections.c, 337  
+[Debug] connections.c, 371  
+[Debug] connections.c, 408  
+[Debug] connections.c, 415, header request: 
+ Host: 192.168.0.67:8085
+User-Agent: VLC/2.0.8 LibVLC/2.0.8
+Range: bytes=0-
+Connection: close
+Icy-MetaData: 1
+
+  
+[Debug] request.c, 555, URI: /./output/stream-6.ts 
+[Debug] p1: -6.ts, p2: .ts 
+number at index: 36 is :712cd481 
+[Debug] request.c, 592, Waiting for URI: /var/www/html/./output/stream-7.ts, new uri: /./output/stream-7.ts  number: 6
+[Debug] request.c, 25: server: C2E010, connection: C4BBD0 
+[Debug] mod_staticfile.c, 159, 
+[Debug]: chunk.c, 166 offset: 0, len: 1707040 
+[Debug] mod_staticfile.c, 355, start: 0, len: 1707040 
+[Debug] mod_staticfile.c, 364 
+[Debug] mod_staticfile.c, 394 
+[Debug] connections.c, 459 Path: /var/www/html/output/stream-6.ts 
+[Debug] connections.c, 465 Path: /var/www/html/output/stream-6.ts 
+[Debug] connections.c, 534  http status: 206 
+[Debug] connections.c, 599 
+[Debug] connections.c, 602 
+[Debug] connections.c, 628, Len: 1707040 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 2 
+[Debug] network_linux_sendfile.c, 290 
+[Debug] network_linux_sendfile.c, 337 , num chunk: 1 
+[Debug] network_linux_sendfile.c, 340 , iov len: 285 
+[Debug] network_linux_sendfile.c, 344 , 
+ response header: HTTP/1.1 206 Partial Content
+Content-Type: video/mpts
+Accept-Ranges: bytes
+ETag: "1830594794"
+Last-Modified: Sun, 22 Sep 2013 08:29:26 GMT
+Content-Range: bytes 0-1707039/1707040
+Content-Length: 1707040
+Connection: close
+Date: Sun, 22 Sep 2013 08:45:45 GMT
+Server: lighttpd
+
+ 
+[Debug] open file network_linux_sendfile.c, 416 file name: /var/www/html/output/stream-6.ts, fid: 9 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 0 , F id: 9 len: 1707040 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 65415 , F id: 9 len: 1707040 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 128640 , F id: 9 len: 1707040 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 163680 , F id: 9 len: 1707040 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 198720 , F id: 9 len: 1707040 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 225000 , F id: 9 len: 1707040 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 268800 , F id: 9 len: 1707040 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 303840 , F id: 9 len: 1707040 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 330120 , F id: 9 len: 1707040 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 365160 , F id: 9 len: 1707040 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 400200 , F id: 9 len: 1707040 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 662344 , F id: 9 len: 1707040 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 924488 , F id: 9 len: 1707040 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 1186632 , F id: 9 len: 1707040 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 1448776 , F id: 9 len: 1707040 
+[Debug] network_linux_sendfile.c, 637 
+[Debug] network_linux_sendfile.c, 642 Close file: /var/www/html/output/stream-6.ts, file id: 9 
+[Debug] network.c, 977 
+[Debug] connections.c, 1392  number of connection: 8 
+[Debug] connections.c, 337  
+[Debug] connections.c, 371  
+[Debug] connections.c, 378  
+[Debug] connections.c, 337  
+[Debug] connections.c, 371  
+[Debug] connections.c, 408  
+[Debug] connections.c, 415, header request: 
+ GET /./output/stream-7.ts HTTP/1.1
+  
+[Debug] connections.c, 337  
+[Debug] connections.c, 371  
+[Debug] connections.c, 408  
+[Debug] connections.c, 415, header request: 
+ Host: 192.168.0.67:8085
+User-Agent: VLC/2.0.8 LibVLC/2.0.8
+Range: bytes=0-
+Connection: close
+Icy-MetaData: 1
+
+  
+[Debug] request.c, 555, URI: /./output/stream-7.ts 
+[Debug] p1: -7.ts, p2: .ts 
+number at index: 37 is :712cd481 
+[Debug] request.c, 592, Waiting for URI: /var/www/html/./output/stream-8.ts, new uri: /./output/stream-8.ts  number: 7
+[Debug] request.c, 25: server: C2E010, connection: C4BBD0 
+[Debug] mod_staticfile.c, 159, 
+[Debug]: chunk.c, 166 offset: 0, len: 2035852 
+[Debug] mod_staticfile.c, 355, start: 0, len: 2035852 
+[Debug] mod_staticfile.c, 364 
+[Debug] mod_staticfile.c, 394 
+[Debug] connections.c, 459 Path: /var/www/html/output/stream-7.ts 
+[Debug] connections.c, 465 Path: /var/www/html/output/stream-7.ts 
+[Debug] connections.c, 534  http status: 206 
+[Debug] connections.c, 599 
+[Debug] connections.c, 602 
+[Debug] connections.c, 628, Len: 2035852 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 2 
+[Debug] network_linux_sendfile.c, 290 
+[Debug] network_linux_sendfile.c, 337 , num chunk: 1 
+[Debug] network_linux_sendfile.c, 340 , iov len: 285 
+[Debug] network_linux_sendfile.c, 344 , 
+ response header: HTTP/1.1 206 Partial Content
+Content-Type: video/mpts
+Accept-Ranges: bytes
+ETag: "2088484599"
+Last-Modified: Sun, 22 Sep 2013 08:29:28 GMT
+Content-Range: bytes 0-2035851/2035852
+Content-Length: 2035852
+Connection: close
+Date: Sun, 22 Sep 2013 08:45:45 GMT
+Server: lighttpd
+
+ 
+[Debug] open file network_linux_sendfile.c, 416 file name: /var/www/html/output/stream-7.ts, fid: 9 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 0 , F id: 9 len: 2035852 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 44975 , F id: 9 len: 2035852 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 71255 , F id: 9 len: 2035852 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 115055 , F id: 9 len: 2035852 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 150095 , F id: 9 len: 2035852 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 193895 , F id: 9 len: 2035852 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 220175 , F id: 9 len: 2035852 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 246455 , F id: 9 len: 2035852 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 272735 , F id: 9 len: 2035852 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 299015 , F id: 9 len: 2035852 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 325295 , F id: 9 len: 2035852 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 530292 , F id: 9 len: 2035852 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 792436 , F id: 9 len: 2035852 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 848320 , F id: 9 len: 2035852 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 926144 , F id: 9 len: 2035852 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 1005428 , F id: 9 len: 2035852 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 1049228 , F id: 9 len: 2035852 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 1311372 , F id: 9 len: 2035852 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 1573516 , F id: 9 len: 2035852 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 1601984 , F id: 9 len: 2035852 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 1637024 , F id: 9 len: 2035852 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 1899168 , F id: 9 len: 2035852 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 1962636 , F id: 9 len: 2035852 
+[Debug] network_linux_sendfile.c, 637 
+[Debug] network_linux_sendfile.c, 642 Close file: /var/www/html/output/stream-7.ts, file id: 9 
+[Debug] network.c, 977 
+[Debug] connections.c, 1392  number of connection: 9 
+[Debug] connections.c, 337  
+[Debug] connections.c, 371  
+[Debug] connections.c, 378  
+[Debug] connections.c, 337  
+[Debug] connections.c, 371  
+[Debug] connections.c, 408  
+[Debug] connections.c, 415, header request: 
+ GET /./output/stream-8.ts HTTP/1.1
+  
+[Debug] connections.c, 337  
+[Debug] connections.c, 371  
+[Debug] connections.c, 408  
+[Debug] connections.c, 415, header request: 
+ Host: 192.168.0.67:8085
+User-Agent: VLC/2.0.8 LibVLC/2.0.8
+Range: bytes=0-
+Connection: close
+Icy-MetaData: 1
+
+  
+[Debug] request.c, 555, URI: /./output/stream-8.ts 
+[Debug] p1: -8.ts, p2: .ts 
+number at index: 38 is :712cd481 
+[Debug] request.c, 592, Waiting for URI: /var/www/html/./output/stream-9.ts, new uri: /./output/stream-9.ts  number: 8
+[Debug] request.c, 25: server: C2E010, connection: C4BBD0 
+[Debug] mod_staticfile.c, 159, 
+[Debug]: chunk.c, 166 offset: 0, len: 1418836 
+[Debug] mod_staticfile.c, 355, start: 0, len: 1418836 
+[Debug] mod_staticfile.c, 364 
+[Debug] mod_staticfile.c, 394 
+[Debug] connections.c, 459 Path: /var/www/html/output/stream-8.ts 
+[Debug] connections.c, 465 Path: /var/www/html/output/stream-8.ts 
+[Debug] connections.c, 534  http status: 206 
+[Debug] connections.c, 599 
+[Debug] connections.c, 602 
+[Debug] connections.c, 628, Len: 1418836 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 2 
+[Debug] network_linux_sendfile.c, 290 
+[Debug] network_linux_sendfile.c, 337 , num chunk: 1 
+[Debug] network_linux_sendfile.c, 340 , iov len: 285 
+[Debug] network_linux_sendfile.c, 344 , 
+ response header: HTTP/1.1 206 Partial Content
+Content-Type: video/mpts
+Accept-Ranges: bytes
+ETag: "2652876215"
+Last-Modified: Sun, 22 Sep 2013 08:29:29 GMT
+Content-Range: bytes 0-1418835/1418836
+Content-Length: 1418836
+Connection: close
+Date: Sun, 22 Sep 2013 08:45:45 GMT
+Server: lighttpd
+
+ 
+[Debug] open file network_linux_sendfile.c, 416 file name: /var/www/html/output/stream-8.ts, fid: 9 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 0 , F id: 9 len: 1418836 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 44975 , F id: 9 len: 1418836 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 94412 , F id: 9 len: 1418836 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 138212 , F id: 9 len: 1418836 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 173252 , F id: 9 len: 1418836 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 217052 , F id: 9 len: 1418836 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 243332 , F id: 9 len: 1418836 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 269612 , F id: 9 len: 1418836 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 295892 , F id: 9 len: 1418836 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 348452 , F id: 9 len: 1418836 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 610596 , F id: 9 len: 1418836 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 872740 , F id: 9 len: 1418836 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 1134884 , F id: 9 len: 1418836 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 1397028 , F id: 9 len: 1418836 
+[Debug] network_linux_sendfile.c, 637 
+[Debug] network_linux_sendfile.c, 642 Close file: /var/www/html/output/stream-8.ts, file id: 9 
+[Debug] network.c, 977 
+[Debug] connections.c, 1392  number of connection: 10 
+[Debug] connections.c, 337  
+[Debug] connections.c, 371  
+[Debug] connections.c, 378  
+[Debug] connections.c, 337  
+[Debug] connections.c, 371  
+[Debug] connections.c, 408  
+[Debug] connections.c, 415, header request: 
+ GET /./output/stream-9.ts HTTP/1.1
+  
+[Debug] connections.c, 337  
+[Debug] connections.c, 371  
+[Debug] connections.c, 408  
+[Debug] connections.c, 415, header request: 
+ Host: 192.168.0.67:8085
+User-Agent: VLC/2.0.8 LibVLC/2.0.8
+Range: bytes=0-
+Connection: close
+Icy-MetaData: 1
+
+  
+[Debug] request.c, 555, URI: /./output/stream-9.ts 
+[Debug] p1: -9.ts, p2: .ts 
+number at index: 39 is :712cd481 
+[Debug] request.c, 592, Waiting for URI: /var/www/html/./output/stream-10.ts, new uri: /./output/stream-10.ts  number: 9
+[Debug] request.c, 25: server: C2E010, connection: C4BBD0 
+[Debug] mod_staticfile.c, 159, 
+[Debug]: chunk.c, 166 offset: 0, len: 1834128 
+[Debug] mod_staticfile.c, 355, start: 0, len: 1834128 
+[Debug] mod_staticfile.c, 364 
+[Debug] mod_staticfile.c, 394 
+[Debug] connections.c, 459 Path: /var/www/html/output/stream-9.ts 
+[Debug] connections.c, 465 Path: /var/www/html/output/stream-9.ts 
+[Debug] connections.c, 534  http status: 206 
+[Debug] connections.c, 599 
+[Debug] connections.c, 602 
+[Debug] connections.c, 628, Len: 1834128 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 2 
+[Debug] network_linux_sendfile.c, 290 
+[Debug] network_linux_sendfile.c, 337 , num chunk: 1 
+[Debug] network_linux_sendfile.c, 340 , iov len: 284 
+[Debug] network_linux_sendfile.c, 344 , 
+ response header: HTTP/1.1 206 Partial Content
+Content-Type: video/mpts
+Accept-Ranges: bytes
+ETag: "152288908"
+Last-Modified: Sun, 22 Sep 2013 08:29:30 GMT
+Content-Range: bytes 0-1834127/1834128
+Content-Length: 1834128
+Connection: close
+Date: Sun, 22 Sep 2013 08:45:46 GMT
+Server: lighttpd
+
+ 
+[Debug] open file network_linux_sendfile.c, 416 file name: /var/www/html/output/stream-9.ts, fid: 9 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 0 , F id: 9 len: 1834128 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 44976 , F id: 9 len: 1834128 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 91696 , F id: 9 len: 1834128 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 126736 , F id: 9 len: 1834128 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 153016 , F id: 9 len: 1834128 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 196816 , F id: 9 len: 1834128 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 231856 , F id: 9 len: 1834128 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 266896 , F id: 9 len: 1834128 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 301936 , F id: 9 len: 1834128 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 336976 , F id: 9 len: 1834128 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 372016 , F id: 9 len: 1834128 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 407056 , F id: 9 len: 1834128 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 669200 , F id: 9 len: 1834128 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 931344 , F id: 9 len: 1834128 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 1193488 , F id: 9 len: 1834128 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 1455632 , F id: 9 len: 1834128 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 1717776 , F id: 9 len: 1834128 
+[Debug] network_linux_sendfile.c, 637 
+[Debug] network_linux_sendfile.c, 642 Close file: /var/www/html/output/stream-9.ts, file id: 9 
+[Debug] network.c, 977 
+[Debug] connections.c, 1392  number of connection: 11 
+[Debug] connections.c, 337  
+[Debug] connections.c, 371  
+[Debug] connections.c, 378  
+[Debug] connections.c, 337  
+[Debug] connections.c, 371  
+[Debug] connections.c, 408  
+[Debug] connections.c, 415, header request: 
+ GET /./output/stream-10.ts HTTP/1.1
+  
+[Debug] connections.c, 337  
+[Debug] connections.c, 371  
+[Debug] connections.c, 408  
+[Debug] connections.c, 415, header request: 
+ Host: 192.168.0.67:8085
+User-Agent: VLC/2.0.8 LibVLC/2.0.8
+Range: bytes=0-
+Connection: close
+Icy-MetaData: 1
+
+  
+[Debug] request.c, 555, URI: /./output/stream-10.ts 
+[Debug] p1: -10.ts, p2: .ts 
+number at index: 31 is :712cd482 
+number at index: 30 is :2 
+[Debug] request.c, 592, Waiting for URI: /var/www/html/./output/stream-11.ts, new uri: /./output/stream-11.ts  number: 10
+[Debug] request.c, 25: server: C2E010, connection: C4BBD0 
+[Debug] mod_staticfile.c, 159, 
+[Debug]: chunk.c, 166 offset: 0, len: 1942228 
+[Debug] mod_staticfile.c, 355, start: 0, len: 1942228 
+[Debug] mod_staticfile.c, 364 
+[Debug] mod_staticfile.c, 394 
+[Debug] connections.c, 459 Path: /var/www/html/output/stream-10.ts 
+[Debug] connections.c, 465 Path: /var/www/html/output/stream-10.ts 
+[Debug] connections.c, 534  http status: 206 
+[Debug] connections.c, 599 
+[Debug] connections.c, 602 
+[Debug] connections.c, 628, Len: 1942228 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 2 
+[Debug] network_linux_sendfile.c, 290 
+[Debug] network_linux_sendfile.c, 337 , num chunk: 1 
+[Debug] network_linux_sendfile.c, 340 , iov len: 285 
+[Debug] network_linux_sendfile.c, 344 , 
+ response header: HTTP/1.1 206 Partial Content
+Content-Type: video/mpts
+Accept-Ranges: bytes
+ETag: "2299692815"
+Last-Modified: Sun, 22 Sep 2013 08:29:32 GMT
+Content-Range: bytes 0-1942227/1942228
+Content-Length: 1942228
+Connection: close
+Date: Sun, 22 Sep 2013 08:45:46 GMT
+Server: lighttpd
+
+ 
+[Debug] open file network_linux_sendfile.c, 416 file name: /var/www/html/output/stream-10.ts, fid: 9 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 0 , F id: 9 len: 1942228 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 104835 , F id: 9 len: 1942228 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 131115 , F id: 9 len: 1942228 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 174915 , F id: 9 len: 1942228 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 201195 , F id: 9 len: 1942228 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 227475 , F id: 9 len: 1942228 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 262515 , F id: 9 len: 1942228 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 315075 , F id: 9 len: 1942228 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 367635 , F id: 9 len: 1942228 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 468852 , F id: 9 len: 1942228 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 495132 , F id: 9 len: 1942228 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 521412 , F id: 9 len: 1942228 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 556452 , F id: 9 len: 1942228 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 818596 , F id: 9 len: 1942228 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 1080740 , F id: 9 len: 1942228 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 1342884 , F id: 9 len: 1942228 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 1605028 , F id: 9 len: 1942228 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 1867172 , F id: 9 len: 1942228 
+[Debug] network_linux_sendfile.c, 637 
+[Debug] network_linux_sendfile.c, 642 Close file: /var/www/html/output/stream-10.ts, file id: 9 
+[Debug] network.c, 977 
+[Debug] connections.c, 1392  number of connection: 12 
+[Debug] connections.c, 337  
+[Debug] connections.c, 371  
+[Debug] connections.c, 378  
+[Debug] connections.c, 337  
+[Debug] connections.c, 371  
+[Debug] connections.c, 408  
+[Debug] connections.c, 415, header request: 
+ GET /./output/stream-11.ts HTTP/1.1
+  
+[Debug] connections.c, 337  
+[Debug] connections.c, 371  
+[Debug] connections.c, 408  
+[Debug] connections.c, 415, header request: 
+ Host: 192.168.0.67:8085
+User-Agent: VLC/2.0.8 LibVLC/2.0.8
+Range: bytes=0-
+Connection: close
+Icy-MetaData: 1
+
+  
+[Debug] request.c, 555, URI: /./output/stream-11.ts 
+[Debug] p1: -11.ts, p2: .ts 
+number at index: 31 is :712cd482 
+number at index: 31 is :2 
+[Debug] request.c, 592, Waiting for URI: /var/www/html/./output/stream-12.ts, new uri: /./output/stream-12.ts  number: 11
+[Debug] request.c, 25: server: C2E010, connection: C4BBD0 
+[Debug] mod_staticfile.c, 159, 
+[Debug]: chunk.c, 166 offset: 0, len: 1481440 
+[Debug] mod_staticfile.c, 355, start: 0, len: 1481440 
+[Debug] mod_staticfile.c, 364 
+[Debug] mod_staticfile.c, 394 
+[Debug] connections.c, 459 Path: /var/www/html/output/stream-11.ts 
+[Debug] connections.c, 465 Path: /var/www/html/output/stream-11.ts 
+[Debug] connections.c, 534  http status: 206 
+[Debug] connections.c, 599 
+[Debug] connections.c, 602 
+[Debug] connections.c, 628, Len: 1481440 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 2 
+[Debug] network_linux_sendfile.c, 290 
+[Debug] network_linux_sendfile.c, 337 , num chunk: 1 
+[Debug] network_linux_sendfile.c, 340 , iov len: 285 
+[Debug] network_linux_sendfile.c, 344 , 
+ response header: HTTP/1.1 206 Partial Content
+Content-Type: video/mpts
+Accept-Ranges: bytes
+ETag: "1830807490"
+Last-Modified: Sun, 22 Sep 2013 08:29:33 GMT
+Content-Range: bytes 0-1481439/1481440
+Content-Length: 1481440
+Connection: close
+Date: Sun, 22 Sep 2013 08:45:47 GMT
+Server: lighttpd
+
+ 
+[Debug] open file network_linux_sendfile.c, 416 file name: /var/www/html/output/stream-11.ts, fid: 9 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 0 , F id: 9 len: 1481440 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 82935 , F id: 9 len: 1481440 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 129816 , F id: 9 len: 1481440 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 164856 , F id: 9 len: 1481440 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 199896 , F id: 9 len: 1481440 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 226176 , F id: 9 len: 1481440 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 269976 , F id: 9 len: 1481440 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 305016 , F id: 9 len: 1481440 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 340056 , F id: 9 len: 1481440 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 602200 , F id: 9 len: 1481440 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 864344 , F id: 9 len: 1481440 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 1126488 , F id: 9 len: 1481440 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 1388632 , F id: 9 len: 1481440 
+[Debug] network_linux_sendfile.c, 637 
+[Debug] network_linux_sendfile.c, 642 Close file: /var/www/html/output/stream-11.ts, file id: 9 
+[Debug] network.c, 977 
+[Debug] connections.c, 1392  number of connection: 13 
+[Debug] connections.c, 337  
+[Debug] connections.c, 371  
+[Debug] connections.c, 378  
+[Debug] connections.c, 337  
+[Debug] connections.c, 371  
+[Debug] connections.c, 408  
+[Debug] connections.c, 415, header request: 
+ GET /./output/stream-12.ts HTTP/1.1
+  
+[Debug] connections.c, 337  
+[Debug] connections.c, 371  
+[Debug] connections.c, 408  
+[Debug] connections.c, 415, header request: 
+ Host: 192.168.0.67:8085
+User-Agent: VLC/2.0.8 LibVLC/2.0.8
+Range: bytes=0-
+Connection: close
+Icy-MetaData: 1
+
+  
+[Debug] request.c, 555, URI: /./output/stream-12.ts 
+[Debug] p1: -12.ts, p2: .ts 
+number at index: 31 is :712cd482 
+number at index: 32 is :2 
+[Debug] request.c, 592, Waiting for URI: /var/www/html/./output/stream-13.ts, new uri: /./output/stream-13.ts  number: 12
+[Debug] request.c, 25: server: C2E010, connection: C4BBD0 
+[Debug] mod_staticfile.c, 159, 
+[Debug]: chunk.c, 166 offset: 0, len: 1620560 
+[Debug] mod_staticfile.c, 355, start: 0, len: 1620560 
+[Debug] mod_staticfile.c, 364 
+[Debug] mod_staticfile.c, 394 
+[Debug] connections.c, 459 Path: /var/www/html/output/stream-12.ts 
+[Debug] connections.c, 465 Path: /var/www/html/output/stream-12.ts 
+[Debug] connections.c, 534  http status: 206 
+[Debug] connections.c, 599 
+[Debug] connections.c, 602 
+[Debug] connections.c, 628, Len: 1620560 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 2 
+[Debug] network_linux_sendfile.c, 290 
+[Debug] network_linux_sendfile.c, 337 , num chunk: 1 
+[Debug] network_linux_sendfile.c, 340 , iov len: 285 
+[Debug] network_linux_sendfile.c, 344 , 
+ response header: HTTP/1.1 206 Partial Content
+Content-Type: video/mpts
+Accept-Ranges: bytes
+ETag: "3441276179"
+Last-Modified: Sun, 22 Sep 2013 08:29:34 GMT
+Content-Range: bytes 0-1620559/1620560
+Content-Length: 1620560
+Connection: close
+Date: Sun, 22 Sep 2013 08:45:49 GMT
+Server: lighttpd
+
+ 
+[Debug] open file network_linux_sendfile.c, 416 file name: /var/www/html/output/stream-12.ts, fid: 9 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 0 , F id: 9 len: 1620560 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 69795 , F id: 9 len: 1620560 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 206464 , F id: 9 len: 1620560 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 241504 , F id: 9 len: 1620560 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 285304 , F id: 9 len: 1620560 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 329104 , F id: 9 len: 1620560 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 364144 , F id: 9 len: 1620560 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 626288 , F id: 9 len: 1620560 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 888432 , F id: 9 len: 1620560 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 1150576 , F id: 9 len: 1620560 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 1412720 , F id: 9 len: 1620560 
+[Debug] network_linux_sendfile.c, 637 
+[Debug] network_linux_sendfile.c, 642 Close file: /var/www/html/output/stream-12.ts, file id: 9 
+[Debug] network.c, 977 
+[Debug] connections.c, 1392  number of connection: 14 
+[Debug] connections.c, 337  
+[Debug] connections.c, 371  
+[Debug] connections.c, 378  
+[Debug] connections.c, 337  
+[Debug] connections.c, 371  
+[Debug] connections.c, 408  
+[Debug] connections.c, 415, header request: 
+ GET /./output/stream-13.ts HTTP/1.1
+  
+[Debug] connections.c, 337  
+[Debug] connections.c, 371  
+[Debug] connections.c, 408  
+[Debug] connections.c, 415, header request: 
+ Host: 192.168.0.67:8085
+User-Agent: VLC/2.0.8 LibVLC/2.0.8
+Range: bytes=0-
+Connection: close
+Icy-MetaData: 1
+
+  
+[Debug] request.c, 555, URI: /./output/stream-13.ts 
+[Debug] p1: -13.ts, p2: .ts 
+number at index: 31 is :712cd482 
+number at index: 33 is :2 
+[Debug] request.c, 592, Waiting for URI: /var/www/html/./output/stream-14.ts, new uri: /./output/stream-14.ts  number: 13
+[Debug] request.c, 25: server: C2E010, connection: C4AAD0 
+[Debug] mod_staticfile.c, 159, 
+[Debug]: chunk.c, 166 offset: 0, len: 1735992 
+[Debug] mod_staticfile.c, 355, start: 0, len: 1735992 
+[Debug] mod_staticfile.c, 364 
+[Debug] mod_staticfile.c, 394 
+[Debug] connections.c, 459 Path: /var/www/html/output/stream-13.ts 
+[Debug] connections.c, 465 Path: /var/www/html/output/stream-13.ts 
+[Debug] connections.c, 534  http status: 206 
+[Debug] connections.c, 599 
+[Debug] connections.c, 602 
+[Debug] connections.c, 628, Len: 1735992 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 2 
+[Debug] network_linux_sendfile.c, 290 
+[Debug] network_linux_sendfile.c, 337 , num chunk: 1 
+[Debug] network_linux_sendfile.c, 340 , iov len: 285 
+[Debug] network_linux_sendfile.c, 344 , 
+ response header: HTTP/1.1 206 Partial Content
+Content-Type: video/mpts
+Accept-Ranges: bytes
+ETag: "3155999818"
+Last-Modified: Sun, 22 Sep 2013 08:29:35 GMT
+Content-Range: bytes 0-1735991/1735992
+Content-Length: 1735992
+Connection: close
+Date: Sun, 22 Sep 2013 08:45:50 GMT
+Server: lighttpd
+
+ 
+[Debug] open file network_linux_sendfile.c, 416 file name: /var/www/html/output/stream-13.ts, fid: 8 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 0 , F id: 8 len: 1735992 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 62495 , F id: 8 len: 1735992 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 88775 , F id: 8 len: 1735992 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 123815 , F id: 8 len: 1735992 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 150095 , F id: 8 len: 1735992 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 176375 , F id: 8 len: 1735992 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 211415 , F id: 8 len: 1735992 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 246455 , F id: 8 len: 1735992 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 281495 , F id: 8 len: 1735992 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 325295 , F id: 8 len: 1735992 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 360335 , F id: 8 len: 1735992 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 395375 , F id: 8 len: 1735992 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 657519 , F id: 8 len: 1735992 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 919663 , F id: 8 len: 1735992 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 1181807 , F id: 8 len: 1735992 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 1443951 , F id: 8 len: 1735992 
+[Debug] network.c, 977 
+[Debug] network.c, 969 
+[Debug] network_linux_sendfile.c, 279 count chunk: 1 
+[Debug] network_linux_sendfile.c, 444 previous offset: 0, new offset: 1706095 , F id: 8 len: 1735992 
+[Debug] network_linux_sendfile.c, 637 
+[Debug] network_linux_sendfile.c, 642 Close file: /var/www/html/output/stream-13.ts, file id: 8 
+[Debug] network.c, 977 
+[Debug] connections.c, 1392  number of connection: 15 
+[Debug] connections.c, 337  
+[Debug] connections.c, 371  
+[Debug] connections.c, 378  
+[Debug] connections.c, 337  
+[Debug] connections.c, 371  
+[Debug] connections.c, 408  
+[Debug] connections.c, 415, header request: 
+ GET /./output/stream-14.ts HTTP/1.1
+Host: 192.168.0.67:8085
+User-Agent: VLC/2.0.8 LibVLC/2.0.8
+Range: bytes=0-
+Connection: close
+Icy-MetaData: 1
+
+  
+[Debug] request.c, 555, URI: /./output/stream-14.ts 
+[Debug] p1: -14.ts, p2: .ts 
+number at index: 31 is :712cd482 
+number at index: 34 is :2 
+[Debug] request.c, 592, W

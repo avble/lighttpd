@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/workaround/!svn/ver/18/trunk/lighttpd-1.4.32_1/tests/docroot/123
+END
+12345.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/tests/docroot/123/12345.html
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/tests/docroot/123/Makefile.in
+END
+dummyfile.bla
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/tests/docroot/123/dummyfile.bla
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/tests/docroot/123/Makefile.am
+END
+phpinfo.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/tests/docroot/123/phpinfo.php
+END
+12345.txt
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/tests/docroot/123/12345.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/workaround/!svn/ver/43/trunk/lighttpd-1.4.32_1/tests/docroot/123/Makefile
+END

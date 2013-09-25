@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/workaround/!svn/ver/18/trunk/lighttpd-1.4.32_1/doc/initscripts
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/doc/initscripts/Makefile.in
+END
+rc.lighttpd
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/doc/initscripts/rc.lighttpd
+END
+sysconfig.lighttpd
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/doc/initscripts/sysconfig.lighttpd
+END
+rc.lighttpd.redhat
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/doc/initscripts/rc.lighttpd.redhat
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/doc/initscripts/Makefile.am
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/workaround/!svn/ver/43/trunk/lighttpd-1.4.32_1/doc/initscripts/Makefile
+END

@@ -1,0 +1,305 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/workaround/!svn/ver/18/trunk/lighttpd-1.4.32_1/tests
+END
+mod-access.t
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/tests/mod-access.t
+END
+mod-auth.t
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/tests/mod-auth.t
+END
+bug-12.conf
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/tests/bug-12.conf
+END
+mod-secdownload.t
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/tests/mod-secdownload.t
+END
+fastcgi-10.conf
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/tests/fastcgi-10.conf
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/tests/Makefile.in
+END
+bug-06.conf
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/tests/bug-06.conf
+END
+core-response.t
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/tests/core-response.t
+END
+symlink.t
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/tests/symlink.t
+END
+request.t
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/tests/request.t
+END
+mod-userdir.t
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/tests/mod-userdir.t
+END
+core-keepalive.t
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/tests/core-keepalive.t
+END
+var-include.conf
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/tests/var-include.conf
+END
+cleanup.sh
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/tests/cleanup.sh
+END
+mod-proxy.t
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/tests/mod-proxy.t
+END
+core-var-include.t
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/tests/core-var-include.t
+END
+404-handler.conf
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/tests/404-handler.conf
+END
+lowercase.conf
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/tests/lowercase.conf
+END
+condition.conf
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/tests/condition.conf
+END
+lighttpd.htpasswd
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/tests/lighttpd.htpasswd
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/workaround/!svn/ver/43/trunk/lighttpd-1.4.32_1/tests/Makefile
+END
+mod-redirect.t
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/tests/mod-redirect.t
+END
+core-request.t
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/tests/core-request.t
+END
+mod-cgi.t
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/tests/mod-cgi.t
+END
+mod-setenv.t
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/tests/mod-setenv.t
+END
+var-include-sub.conf
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/tests/var-include-sub.conf
+END
+cachable.t
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/tests/cachable.t
+END
+fastcgi-13.conf
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/tests/fastcgi-13.conf
+END
+lowercase.t
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/tests/lowercase.t
+END
+SConscript
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/tests/SConscript
+END
+fcgi-auth.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/tests/fcgi-auth.c
+END
+fcgi-responder.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/tests/fcgi-responder.c
+END
+wrapper.sh
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/tests/wrapper.sh
+END
+core.t
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/tests/core.t
+END
+lighttpd.user
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/tests/lighttpd.user
+END
+mod-compress.conf
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/tests/mod-compress.conf
+END
+mod-fastcgi.t
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/tests/mod-fastcgi.t
+END
+mod-rewrite.t
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/tests/mod-rewrite.t
+END
+lighttpd.conf
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/workaround/!svn/ver/43/trunk/lighttpd-1.4.32_1/tests/lighttpd.conf
+END
+fastcgi-responder.conf
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/tests/fastcgi-responder.conf
+END
+fastcgi-auth.conf
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/tests/fastcgi-auth.conf
+END
+proxy.conf
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/tests/proxy.conf
+END
+prepare.sh
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/tests/prepare.sh
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/tests/Makefile.am
+END
+core-404-handler.t
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/tests/core-404-handler.t
+END
+mod-compress.t
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/tests/mod-compress.t
+END
+LightyTest.pm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/tests/LightyTest.pm
+END
+mod-ssi.t
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/tests/mod-ssi.t
+END
+core-condition.t
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/tests/core-condition.t
+END
+run-tests.pl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/tests/run-tests.pl
+END
