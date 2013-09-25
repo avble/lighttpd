@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/workaround/!svn/ver/42/trunk/lighttpd-1.4.32_1
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/configure
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/Makefile.in
+END
+config.log
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/workaround/!svn/ver/43/trunk/lighttpd-1.4.32_1/config.log
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/AUTHORS
+END
+depcomp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/depcomp
+END
+[config.h].in
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/%5Bconfig.h%5D.in
+END
+compile
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/compile
+END
+config.guess
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/config.guess
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/workaround/!svn/ver/43/trunk/lighttpd-1.4.32_1/config.h
+END
+distribute.sh.in
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/distribute.sh.in
+END
+ltmain.sh
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/ltmain.sh
+END
+config.sub
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/config.sub
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/configure.ac
+END
+ar-lib
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/ar-lib
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/INSTALL
+END
+SConstruct
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/SConstruct
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/COPYING
+END
+autogen.sh
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/autogen.sh
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/NEWS
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/workaround/!svn/ver/43/trunk/lighttpd-1.4.32_1/Makefile
+END
+config.status
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/workaround/!svn/ver/43/trunk/lighttpd-1.4.32_1/config.status
+END
+distribute.sh
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/distribute.sh
+END
+stamp-h1
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/stamp-h1
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/README
+END
+config.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/config.h.in
+END
+myconfigure.sh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/workaround/!svn/ver/18/trunk/lighttpd-1.4.32_1/myconfigure.sh
+END
+lighttpd.conf
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/workaround/!svn/ver/44/trunk/lighttpd-1.4.32_1/lighttpd.conf
+END
+libtool
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/workaround/!svn/ver/43/trunk/lighttpd-1.4.32_1/libtool
+END
+missing
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/missing
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/Makefile.am
+END
+aclocal.m4
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/aclocal.m4
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/workaround/!svn/ver/17/trunk/lighttpd-1.4.32_1/install-sh
+END
